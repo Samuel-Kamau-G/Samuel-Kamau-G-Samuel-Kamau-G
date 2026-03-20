@@ -1,6 +1,4 @@
-# Hi, I'm Samuel 👋
-
-## 🚀 About Me
+# Hi, I'm Samuel 
 I'm an Electrical & Electronics Engineering student with hands-on experience in:
 - Circuit Design and Analysis
 - Analog Electronics
@@ -10,21 +8,18 @@ I'm an Electrical & Electronics Engineering student with hands-on experience in:
 
 I enjoy building practical engineering projects that solve real-world problems.
 
----
 
-## 🛠️ Technical Skills
+## Technical Skills
 - **Hardware:** Circuit Analysis, Analog Design, PCB Design (KiCad)
 - **Programming:** Arduino (C/C++), Python (OOP)
 - **Tools:** Proteus, Tinkercad, AutoCAD
 
----
 
-## 📂 Featured Projects
+##  Featured Projects
 - 🔌 Adjustable DC Power Supply  
 - 🔥 IoT Smoke Detector (Tinkercad Simulation)
 
----
 
-## 📫 Contact
-- Email: your-email-here
+## Contact
+- Email: gachie.sgk@gmail.com/ samuel.gachie@strathmore.edu
 - LinkedIn: (add later)
